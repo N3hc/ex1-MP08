@@ -1,1 +1,8 @@
-Texto 2 para merge con problemas "problema"
+Texto 2 para merge con problemas
+
+He quitado el problema de la frase inicial i ha havido conflicto
+
+Texto Inicial 
+    Texto 2 para merge con problemas "problema"
+Texto luego del merge 
+    Texto 2 para merge con problemas
